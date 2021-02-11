@@ -1,0 +1,1 @@
+hello there i have created a text file using vim command now working on it
